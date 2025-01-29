@@ -1,6 +1,7 @@
 {
   "name": "Diagoneta Líneas Aéreas",
   "short_name": "Diagoneta",
+  "description": "Una aerolínea virtual de vuelos multijugador",
   "start_url": "https://sites.google.com/view/diagoneta/home",
   "display": "standalone",
   "background_color": "#ffffff",
